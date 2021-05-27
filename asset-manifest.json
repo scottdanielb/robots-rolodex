@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/robots-rolodex/static/css/main.840193d1.chunk.css",
+    "main.js": "/robots-rolodex/static/js/main.5ff301fb.chunk.js",
+    "main.js.map": "/robots-rolodex/static/js/main.5ff301fb.chunk.js.map",
+    "runtime-main.js": "/robots-rolodex/static/js/runtime-main.8bfaaf52.js",
+    "runtime-main.js.map": "/robots-rolodex/static/js/runtime-main.8bfaaf52.js.map",
+    "static/css/2.fe359a49.chunk.css": "/robots-rolodex/static/css/2.fe359a49.chunk.css",
+    "static/js/2.d5775f73.chunk.js": "/robots-rolodex/static/js/2.d5775f73.chunk.js",
+    "static/js/2.d5775f73.chunk.js.map": "/robots-rolodex/static/js/2.d5775f73.chunk.js.map",
+    "static/js/3.e7b06a66.chunk.js": "/robots-rolodex/static/js/3.e7b06a66.chunk.js",
+    "static/js/3.e7b06a66.chunk.js.map": "/robots-rolodex/static/js/3.e7b06a66.chunk.js.map",
+    "index.html": "/robots-rolodex/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/robots-rolodex/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.840193d1.chunk.css.map": "/robots-rolodex/static/css/main.840193d1.chunk.css.map",
+    "static/js/2.d5775f73.chunk.js.LICENSE.txt": "/robots-rolodex/static/js/2.d5775f73.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robots-rolodex/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8bfaaf52.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.d5775f73.chunk.js",
+    "static/css/main.840193d1.chunk.css",
+    "static/js/main.5ff301fb.chunk.js"
+  ]
+}
